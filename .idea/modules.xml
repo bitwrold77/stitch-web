@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aigou-web-plat.iml" filepath="$PROJECT_DIR$/aigou-web-plat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stitch-web.iml" filepath="$PROJECT_DIR$/.idea/stitch-web.iml" />
     </modules>
   </component>
 </project>
